@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gif of mould simulation](https://github.com/lewisfish/lewisfish/raw/main/github.gif)
+
 <!--
 **lewisfish/lewisfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
